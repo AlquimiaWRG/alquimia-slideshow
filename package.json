@@ -1,0 +1,13 @@
+{
+  "name": "alquimia-slideshow",
+  "version": "0.0.1",
+  "description": "q-slideshow directive for Angular: create slideshows in a breeze.",
+  "dependencies": {
+    "alquimia-alquimia": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mauro Constantinescu",
+  "license": "ISC"
+}
