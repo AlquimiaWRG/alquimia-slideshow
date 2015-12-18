@@ -1,7 +1,6 @@
 "use strict";
 
 module.exports = function(defaultJs) {
-  defaultJs.getElement('angular').push('angular-animate');
-  defaultJs.getElement('alquimia').slideshow = true;
+  defaultJs.getElement('angular').push('angular-animate', './slideshow');
   return defaultJs;
 };

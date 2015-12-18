@@ -1,9 +1,9 @@
 {
   "name": "alquimia-slideshow",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "q-slideshow directive for Angular: create slideshows in a breeze.",
   "dependencies": {
-    "alquimia-alquimia": ""
+    "alquimia-angular": ""
   },
   "repository" : {
     "type" : "git",
